@@ -3,7 +3,7 @@
 #define GREEN_LED 9
 #define BUZZER 7
 
-int smokeThreshold = 400;
+int smokeThreshold = 500;
 
 void setup() {
   pinMode(RED_LED, OUTPUT);
